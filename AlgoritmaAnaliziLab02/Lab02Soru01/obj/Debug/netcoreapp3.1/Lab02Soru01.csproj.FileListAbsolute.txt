@@ -1,0 +1,13 @@
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.exe
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.deps.json
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.runtimeconfig.json
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.runtimeconfig.dev.json
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.dll
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\bin\Debug\netcoreapp3.1\Lab02Soru01.pdb
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.csprojAssemblyReference.cache
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.AssemblyInfoInputs.cache
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.AssemblyInfo.cs
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.csproj.CoreCompileInputs.cache
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.dll
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.pdb
+C:\Users\Burak Emre Terzi\source\repos\AlgoritmaAnaliziLab02\Lab02Soru01\obj\Debug\netcoreapp3.1\Lab02Soru01.genruntimeconfig.cache
